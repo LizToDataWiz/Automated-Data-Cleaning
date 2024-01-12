@@ -18,8 +18,7 @@ An event scheduler is implemented to automate the execution of the data cleaning
 ## How to Use
 Follow these steps to utilize the Automated Data Cleaning project:
 
-## Database Setup:
-
+### Database Setup:
 Ensure that you have a compatible SQL database set up.
 Execute the necessary scripts to create the required tables and structures.
 
