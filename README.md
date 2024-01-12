@@ -3,13 +3,17 @@
 Welcome to the Automated Data Cleaning project! This project is designed to automate the cleaning process of a household income dataset using SQL. The main goal is to enhance data quality by eliminating duplicates, standardizing information, and ensuring consistent and accurate data.
 
 ## Features
-### Stored Procedure: The project includes a comprehensive stored procedure that is responsible for copying and cleaning the dataset. This stored procedure is crafted to handle various data cleaning tasks, ensuring a robust and efficient data cleaning process.
+### Stored Procedure: 
+The project includes a comprehensive stored procedure that is responsible for copying and cleaning the dataset. This stored procedure is crafted to handle various data cleaning tasks, ensuring a robust and efficient data cleaning process.
 
-### Duplicate Elimination: The stored procedure is equipped to identify and eliminate duplicate entries within the dataset. This is crucial for maintaining the integrity of the data and preventing redundancy.
+### Duplicate Elimination: 
+The stored procedure is equipped to identify and eliminate duplicate entries within the dataset. This is crucial for maintaining the integrity of the data and preventing redundancy.
 
-### Data Standardization: The project addresses data inconsistency issues by standardizing information. This includes formatting data to a consistent structure, making it easier to analyze and work with.
+### Data Standardization: 
+The project addresses data inconsistency issues by standardizing information. This includes formatting data to a consistent structure, making it easier to analyze and work with.
 
-### Event Scheduler: An event scheduler is implemented to automate the execution of the data cleaning procedure at regular intervals. This ensures ongoing maintenance of the dataset, keeping it up-to-date and reliable.
+### Event Scheduler: 
+An event scheduler is implemented to automate the execution of the data cleaning procedure at regular intervals. This ensures ongoing maintenance of the dataset, keeping it up-to-date and reliable.
 
 ## How to Use
 Follow these steps to utilize the Automated Data Cleaning project:
